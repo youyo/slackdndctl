@@ -1,6 +1,6 @@
 # slackdndctl
 
-
+[![wercker status](https://app.wercker.com/status/3b1e499c46c85cc87268bc1ad2ae597e/s/master "wercker status")](https://app.wercker.com/project/byKey/3b1e499c46c85cc87268bc1ad2ae597e)
 
 ## Description
 
