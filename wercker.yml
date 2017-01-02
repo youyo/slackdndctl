@@ -1,0 +1,11 @@
+release:
+  box:
+    id: youyo/gobuild:latest
+    cmd: /bin/bash
+  steps:
+    - wercker/setup-go-workspace:
+      package-dir: github.com/youyo/slackdndctl
+    - script:
+      name: Releases
+      code: |-
+        make release
