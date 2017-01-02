@@ -1,0 +1,55 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "+U+s6CzixLU/wKizY4vRCkYJ1WM=",
+			"path": "github.com/comail/colog",
+			"revision": "fba8e7b1f46c3607f09760ce3880066e7ff57c5a",
+			"revisionTime": "2016-04-16T08:50:26Z"
+		},
+		{
+			"checksumSHA1": "KSUzHdRfzlo1JNuxY/DKWUlEt7Y=",
+			"path": "github.com/k0kubun/pp",
+			"revision": "f5dce6ed0ccf6c350f1679964ff6b61f3d6d2033",
+			"revisionTime": "2016-06-02T14:46:26Z"
+		},
+		{
+			"checksumSHA1": "I4njd26dG5hxFT2nawuByM4pxzY=",
+			"path": "github.com/mattn/go-colorable",
+			"revision": "d228849504861217f796da67fae4f6e347643f15",
+			"revisionTime": "2016-11-03T16:00:40Z"
+		},
+		{
+			"checksumSHA1": "xZuhljnmBysJPta/lMyYmJdujCg=",
+			"path": "github.com/mattn/go-isatty",
+			"revision": "30a891c33c7cde7b02a981314b4228ec99380cca",
+			"revisionTime": "2016-11-23T14:36:37Z"
+		},
+		{
+			"checksumSHA1": "Tv59jlJDdTKNL5jrQhxt47AAAAE=",
+			"path": "github.com/nlopes/slack",
+			"revision": "e595e9d8590a04ff76407e4e7d1791d25b095c66",
+			"revisionTime": "2016-10-30T18:15:39Z"
+		},
+		{
+			"checksumSHA1": "LMu1NsthSqcXfKu0m6YGPAmwBcY=",
+			"path": "github.com/urfave/cli",
+			"revision": "0bdeddeeb0f650497d603c4ad7b20cfe685682f6",
+			"revisionTime": "2016-11-22T04:36:10Z"
+		},
+		{
+			"checksumSHA1": "7EZyXN0EmZLgGxZxK01IJua4c8o=",
+			"path": "golang.org/x/net/websocket",
+			"revision": "8fd7f25955530b92e73e9e1932a41b522b22ccd9",
+			"revisionTime": "2016-12-29T20:13:24Z"
+		},
+		{
+			"checksumSHA1": "uTQtOqR0ePMMcvuvAIksiIZxhqU=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "d75a52659825e75fff6158388dddc6a5b04f9ba5",
+			"revisionTime": "2016-12-14T18:38:57Z"
+		}
+	],
+	"rootPath": "github.com/youyo/slackdndctl"
+}
